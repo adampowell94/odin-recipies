@@ -1,1 +1,2 @@
 # odin-recipies
+In this project I aim to build a basic recipie website using HTML. It will consist of a main index page with links to a few recipies, allowing me to put my new skills of HTML into practice. 
